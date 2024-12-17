@@ -5,6 +5,7 @@
 ## **Aufgabenstellung**
 
 ### 0. **Codeverständnis**
+- Klonen Sie das Projekt und installieren ggf. Pygame (`python3 -m pip install -U pygame --user`). Starten Sie die `Main.py` und testen, ob das Programm funktioniert.
 - Analysieren Sie den gegebenen Code und verstehen Sie, wie das Spiel funktioniert.
 - Fügen Sie Kommentare hinzu, um den Code zu erklären.
 
